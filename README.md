@@ -1,4 +1,4 @@
-# BST_lib
+# Custom stl BST
 
 Бинарное дерево поиска. Шаблоны. STL.
 
